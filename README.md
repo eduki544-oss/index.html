@@ -1,5 +1,4 @@
 # taxiflow-map
-taxiflow-map
 <!DOCTYPE html>
 <html>
 <head>
